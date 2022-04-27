@@ -5,7 +5,7 @@
 
 Praticar nossos conhecimentos com __Programação Orientada a Objetos__.
 
-*Herança
-*Abstract
-*Interface
+* Herança
+* Abstract
+* Interface
 
